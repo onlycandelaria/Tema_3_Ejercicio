@@ -1,0 +1,12 @@
+class Main 
+ {  
+    main 
+    in resultado = suma (A:10, B:10, C:22);
+    System.out.printIn (resultado); 
+   }
+ {
+   int SUMA (int A, int B, int C)
+  return A + B + C ;
+  }
+  
+  
